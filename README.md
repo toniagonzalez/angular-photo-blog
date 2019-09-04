@@ -1,4 +1,4 @@
-# angular-photo-blog
+# angular-photo-comment-widget
 
 This app uses angular to create a photo comment widget. To run:
 
